@@ -1,0 +1,16 @@
+.book {
+  position: relative;
+  height: 53rem;
+
+  &__link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &__img {
+    max-width: 30rem;
+    height: auto;
+  }
+}
