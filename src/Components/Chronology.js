@@ -10,13 +10,6 @@ function Chronology() {
           </span>
         </li>
         <li className="chronology__item">
-          <strong>1977</strong>- Born 6 weeks premature and given a 10% chance
-          of living. I survive instead and grow so fat that I can’t roll onto my
-          stomach. A muscular imbalance of the eyes makes me look in opposite
-          directions, and my mother refers to me affectionately as “tuna fish.”
-          So far so good.
-        </li>
-        <li className="chronology__item">
           <strong>1977</strong> - Born 6 weeks premature and given a 10% chance
           of living. I survive instead and grow so fat that I can’t roll onto my
           stomach. A muscular imbalance of the eyes makes me look in opposite
