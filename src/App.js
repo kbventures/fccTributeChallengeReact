@@ -1,4 +1,3 @@
-import './styles/main.scss';
 import Header from './Components/Header';
 import Chronology from './Components/Chronology';
 import Footer from './Components/Footer';
