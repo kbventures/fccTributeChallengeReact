@@ -1,3 +1,6 @@
+@use '../abstracts/variables' as *;
+@use '../abstracts/mixins' as *;
+
 body {
   box-sizing: border-box;
   background-color: $color-light-grey;
